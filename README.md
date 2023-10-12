@@ -2,12 +2,14 @@
 
 Exercise Explorer is a sleek and user-friendly web application built using React.js, designed to help fitness enthusiasts discover a diverse range of exercises categorized by different body parts. This platform leverages the ExerciseDB API to provide a comprehensive database of workouts.
 
+## Try It Out
+
+You can try Exercise Explorer live at [https://exercise-explorer-v.netlify.app/](https://exercise-explorer-v.netlify.app/).
+
 ## Key Features
 
 - **Aesthetic Design**: Material-UI components and icons for an aesthetically pleasing and intuitive user experience.
-
 - **Efficient State Management**: State management handled with React hooks like useState and useEffect, ensuring smooth interactivity.
-
 - **Real-Time Data**: Seamless API integration to keep exercise information up-to-date and accurate.
 
 ## Stay Fit, Stay Motivated
